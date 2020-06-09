@@ -3,7 +3,7 @@
 
 *Done by Ignatov Dmitry. Date of report 30.05.2020*
 
-*An article on the work done is [here](https://github.com/IgnatovD/ruBart).*
+*An article on the work done is [here](https://www.dropbox.com/s/lc2vug0s5tjluaa/Small_BART_for_the_problem_of_summarizing_the_Russian_language.pdf?dl=0).*
 
 ### Introduction
 
