@@ -1,4 +1,4 @@
-# Small BART for summarization of texts in Russian - project report
+# Small BART for summarization of texts in russian language.
 *Project for NLP course by Huawei, spring 2020.*
 
 *Done by Ignatov Dmitry. Date of report 30.05.2020*
@@ -15,6 +15,6 @@ summarizing the Russian text.
 
 ### Tutorials
 - [Create Russian Wikipedia dataset](./examples/ruWiki.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IgnatovD/ruBart/blob/master/examples/ruWiki.ipynb)
-- [Train the tokenizer from scratch](./examples/train_tokenizer.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IgnatovD/ruBart/blob/master/examples/train_tokenizer.ipynb)
 - [Pre-training a small BART](./examples/TrainerMLM.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IgnatovD/ruBart/blob/master/examples/TrainerMLM.ipynb)
 - [Fine-tune a small BART for the task of summarizing texts](./examples/FineTune.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IgnatovD/ruBart/blob/master/examples/FineTune.ipynb)
+- [Train the tokenizer from scratch](./examples/train_tokenizer.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IgnatovD/ruBart/blob/master/examples/train_tokenizer.ipynb)
