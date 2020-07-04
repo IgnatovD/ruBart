@@ -5,7 +5,7 @@
 
 *An article on the work done is [here](https://www.dropbox.com/s/lc2vug0s5tjluaa/Small_BART_for_the_problem_of_summarizing_the_Russian_language.pdf?dl=0).*
 
-*Course certificate is [here](https://stepik.org/certificate/9e0a6a30274271ddc86a35251ea5977bd39d317e.png).*
+*Course certificate is <a href="https://stepik.org/certificate/9e0a6a30274271ddc86a35251ea5977bd39d317e.png" target="_blank">here</a>.*
 
 ### Introduction
 
